@@ -29,3 +29,5 @@ logs
 # Mac book
 .DS_Store
 
+# project file
+MNIST_data
