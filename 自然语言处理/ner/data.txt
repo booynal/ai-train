@@ -1,0 +1,15 @@
+坐 O
+着 O
+火 B-N
+车 I-N
+去 O
+拉 B-LOC
+萨 I-LOC
+
+北 B-LOC
+京 I-LOC
+比 O
+上 B-LOC
+海 I-LOC
+好 O
+玩 O
